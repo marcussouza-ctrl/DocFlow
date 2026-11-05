@@ -1,0 +1,6 @@
+{
+  "name": "DocFlow — Renomeador de PDFs em Lote",
+  "description": "Bancada utilitária para renomear arquivos PDF em lote usando extração inteligente de conteúdo via IA e regras de substituição ou Expressões Regulares (Regex).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

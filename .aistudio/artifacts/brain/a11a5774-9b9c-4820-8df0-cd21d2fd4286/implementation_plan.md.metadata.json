@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementacao para o DocFlow PDF Renamer, uma aplicacao de renomeacao inteligente de arquivos PDF em lote combinando extracao de conteudo via IA (Gemini) e regras de substituicao/Regex, com pre-visualizacao e download individual.",
+  "updatedAt":  "2026-10-27T18:17:20.957082893Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
